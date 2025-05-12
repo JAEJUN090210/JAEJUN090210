@@ -1,5 +1,5 @@
 <div align = center>
-  <img src=https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hello%20I'm%20jaejun&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=51&descAlignY=51&fontColor=8FA5C4/>
+  <img src=https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hello,%20I'm%20JAEJUN&reversal=false&textBg=false&fontSize=60/>
 
 [![SVG 타이핑](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&multiline=true&width=435&lines=I+want+Frontend+DEV) ](https://git.io/typing-svg)
 
