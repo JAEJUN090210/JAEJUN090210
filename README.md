@@ -24,4 +24,10 @@
     </td>
   </tr>
 </table>
+<br>
+
+[![JAEJUN090210's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAEJUN090210&theme=github-compact)](https://github.com/EMBKSM/github-readme-activity-graph)
+
+
+<br>
 </div>
