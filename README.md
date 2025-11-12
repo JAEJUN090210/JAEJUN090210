@@ -3,6 +3,27 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&multiline=true&width=435&lines=I+want+be+a+Frontend+DEV)](https://git.io/typing-svg)
 
+<!-- Tools -->
+<h2 align="center">Tools</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=notion&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat&logo=discord&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/WEBSTORM-000000?style=flat&logo=webstorm&logoColor=08FDD8">&nbsp
+</div>
+
+<!-- Study -->
+<h2 align="center">Study</h2>
+<div>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/STYLED_COMPONENTS-DB7093?style=flat&logo=styledcomponents&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/EMOTION-C865B9?style=flat&logo=emotion&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=flat&logo=vite&logoColor=white">&nbsp
+</div>
+
 <!-- My Stats & Profiles -->
 <h2 align="center">My Stats</h2>
 
@@ -10,11 +31,11 @@
   <tr>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=JAEJUN090210&show_icons=true&theme=light" width="300px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=JAEJUN090210&show_icons=true&theme=default&hide_border=true&bg_color=180,000000,&title_color=000000&text_color=000000"/>
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEJUN090210&layout=compact&theme=light" width="300px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEJUN090210&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitAnimals</h3>
