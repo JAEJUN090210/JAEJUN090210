@@ -6,22 +6,23 @@
 <!-- Tools -->
 <h2 align="center">Tools</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=notion&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat&logo=discord&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/WEBSTORM-000000?style=flat&logo=webstorm&logoColor=08FDD8">&nbsp
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/WEBSTORM-000000?style=for-the-badge&logo=webstorm&logoColor=08FDD8">&nbsp
 </div>
 
 <!-- Study -->
 <h2 align="center">Study</h2>
 <div>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/STYLED_COMPONENTS-DB7093?style=flat&logo=styledcomponents&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/EMOTION-C865B9?style=flat&logo=emotion&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/VITE-646CFF?style=flat&logo=vite&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp
+  <img src="https://img.shields.io/badge/STYLED_COMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/EMOTION-C865B9?style=for-the-badge&logo=emotion&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white">&nbsp
 </div>
 
 <!-- My Stats & Profiles -->
