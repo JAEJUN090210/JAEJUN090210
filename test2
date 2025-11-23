@@ -1,0 +1,10 @@
+server {
+    listen 80;
+    server_name www.a.b.kr;
+
+    location / {
+        proxy_pass http://127.0.0.1:3000/;  # 프론트엔드 컨테이너 포트
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+    }
+}
