@@ -40,8 +40,8 @@
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitAnimals</h3>
-      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JAEJUN090210&utm_content=farm">
-        <img src="https://render.gitanimals.org/farms/JAEJUN090210" width="300px" height="150px"/>
+        <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JAEJUN090210&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/JAEJUN090210" width="600" height="300"/>
       </a>
     </td>
   </tr>
