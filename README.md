@@ -1,8 +1,6 @@
 <img width="245" height="88" alt="image" src="https://github.com/user-attachments/assets/de67c11d-4ee5-45c7-9449-cbd928e40a99" /><div align = center>
   <img src=https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hello,%20I'm%20JAEJUN&reversal=false&textBg=false&fontSize=60/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&multiline=true&width=500&lines=I+want+to+be+a+Frontend+Developer)](https://git.io/typing-svg)
-
 <!-- Tools -->
 <h2 align="center">Tools</h2>
 <div align="center">
