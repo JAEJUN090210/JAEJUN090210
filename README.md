@@ -1,17 +1,17 @@
 <div align = center>
   <img src=https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hello,%20I'm%20JAEJUN&reversal=false&textBg=false&fontSize=60/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&multiline=true&width=500&lines=I+want+to+be+a+Frontend+DEV)](https://git.io/typing-svg)
-
 <!-- Tools -->
 <h2 align="center">Tools</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/WEBSTORM-000000?style=for-the-badge&logo=webstorm&logoColor=08FDD8">&nbsp
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/GIT_BASH-000000?style=for-the-badge&logo=git&logoColor=F05032">&nbsp
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
 </div>
 
 <!-- Study -->
@@ -23,6 +23,12 @@
   <img src="https://img.shields.io/badge/STYLED_COMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/EMOTION-C865B9?style=for-the-badge&logo=emotion&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/AXIOS-646CFF?style=for-the-badge&logo=axios&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/STORYBOOK-FF4785?style=for-the-badge&logo=storybook&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/TURBOREPO-EF4444?style=for-the-badge&logo=turbo&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/HUSKY-000000?style=for-the-badge&logo=git&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/REACT_QUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">&nbsp
 </div>
 
 <!-- My Stats & Profiles -->
