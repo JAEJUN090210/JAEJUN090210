@@ -37,11 +37,11 @@
   <tr>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=JAEJUN090210&show_icons=true&theme=default&hide_border=true&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=JAEJUN090210&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" />
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEJUN090210&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEJUN090210&layout=compact&bg_color=180,000000&title_color=000000&text_color=000000" />
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitAnimals</h3>
