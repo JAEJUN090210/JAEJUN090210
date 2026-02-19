@@ -4,7 +4,6 @@
 <!-- Tools -->
 <h2 align="center">Tools</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp
