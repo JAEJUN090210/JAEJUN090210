@@ -3,32 +3,53 @@
 
 <!-- Tools -->
 <h2 align="center">Tools</h2>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/WEBSTORM-000000?style=for-the-badge&logo=webstorm&logoColor=08FDD8">&nbsp
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/GIT_BASH-000000?style=for-the-badge&logo=git&logoColor=F05032">&nbsp
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
+  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,webstorm,postman,git,linux&theme=dark" />
 </div>
+
+<br />
 
 <!-- Study -->
 <h2 align="center">Study</h2>
-<div>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp
-  <img src="https://img.shields.io/badge/STYLED_COMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/EMOTION-C865B9?style=for-the-badge&logo=emotion&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/AXIOS-646CFF?style=for-the-badge&logo=axios&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/STORYBOOK-FF4785?style=for-the-badge&logo=storybook&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/TURBOREPO-EF4444?style=for-the-badge&logo=turbo&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/HUSKY-000000?style=for-the-badge&logo=git&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/REACT_QUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">&nbsp
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=c,python,js,ts&theme=dark" />
+    </td>
+    <td align="center" width="220">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
+      <br />
+      <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <h3>Styling</h3>
+      <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind&theme=dark" />
+      <br />
+      <img src="https://img.shields.io/badge/Emotion-C865B9?style=flat-square&logo=emotion&logoColor=white" />
+    </td>
+    <td align="center" width="220">
+      <h3>State & Data</h3>
+      <img src="https://skillicons.dev/icons?i=redux&theme=dark" />
+      <br />
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Build & Workflow</h3>
+      <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turbo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <!-- My Stats & Profiles -->
 <h2 align="center">My Stats</h2>
