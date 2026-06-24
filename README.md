@@ -10,7 +10,7 @@
 
 <br />
 
-<!-- Study -->
+<!-- StudyArea -->
 <h2 align="center">Study</h2>
 
 <table align="center">
