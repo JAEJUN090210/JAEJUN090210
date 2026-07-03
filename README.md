@@ -8,12 +8,7 @@
   <a href="https://github.com/JAEJUN090210" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-JAEJUN090210-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://velog.io/@아이디" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
 </p>
-
-> **Portfolio** : https://jaejun.isdevj.kr
 
 </div>
 <!-- Tools -->
